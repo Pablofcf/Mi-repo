@@ -7,3 +7,8 @@ Aquí subo pruebas del reto 2
 [![Captura-de-pantalla-2024-02-19-112417.png](https://i.postimg.cc/wT7H4Vr6/Captura-de-pantalla-2024-02-19-112417.png)](https://postimg.cc/ZCt1CrZg)
 
 [![Captura-de-pantalla-2024-02-19-112529.png](https://i.postimg.cc/W3bxFpL2/Captura-de-pantalla-2024-02-19-112529.png)](https://postimg.cc/XZmstbYh)
+
+
+Reto 3
+
+![image](https://github.com/Pablofcf/Mi-repo/assets/159049788/c0cad6cd-fa53-4dda-8842-d5600c446ef2)
