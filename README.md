@@ -12,3 +12,5 @@ Aquí subo pruebas del reto 2
 Reto 3
 
 ![image](https://github.com/Pablofcf/Mi-repo/assets/159049788/c0cad6cd-fa53-4dda-8842-d5600c446ef2)
+![image](https://github.com/Pablofcf/Mi-repo/assets/159049788/b3d11b5b-6fbc-439a-af43-75d82f336176)
+
